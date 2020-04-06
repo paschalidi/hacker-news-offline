@@ -9,9 +9,15 @@
     "@the-simple/web-components": "^1.0.32",
     "idb": "^5.0.2",
     "idb-keyval": "^3.2.0",
+    "localforage": "^1.7.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-redux": "^7.2.0",
+    "react-scripts": "3.4.1",
+    "redux": "^4.0.5",
+    "redux-observable": "^1.2.0",
+    "redux-persist": "^6.0.0",
+    "rxjs": "^6.5.5"
   },
   "scripts": {
     "start": "react-scripts start",
